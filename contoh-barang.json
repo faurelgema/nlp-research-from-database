@@ -1,0 +1,148 @@
+{
+  "barang": [
+    {
+      "nama": "Smartphone Samsung Galaxy S21",
+      "jenis": "Smartphone",
+      "rating": 4.5,
+      "url": "https://example.com/samsung-galaxy-s21",
+      "lokasi": "Jakarta",
+      "harga": 12000000
+    },
+    {
+      "nama": "Laptop Dell XPS 13",
+      "jenis": "Laptop",
+      "rating": 4.8,
+      "url": "https://example.com/dell-xps-13",
+      "lokasi": "Surabaya",
+      "harga": 18000000
+    },
+    {
+      "nama": "Smart TV LG OLED CX",
+      "jenis": "Smart TV",
+      "rating": 4.7,
+      "url": "https://example.com/lg-oled-cx",
+      "lokasi": "Bandung",
+      "harga": 22000000
+    },
+    {
+      "nama": "Kamera Sony Alpha A7 III",
+      "jenis": "Kamera",
+      "rating": 4.9,
+      "url": "https://example.com/sony-alpha-a7-iii",
+      "lokasi": "Yogyakarta",
+      "harga": 16000000
+    },
+    {
+      "nama": "Headphone Bose QuietComfort 35 II",
+      "jenis": "Headphone",
+      "rating": 4.6,
+      "url": "https://example.com/bose-quietcomfort-35-ii",
+      "lokasi": "Semarang",
+      "harga": 2500000
+    },
+    {
+      "nama": "Monitor ASUS ROG Swift PG279Q",
+      "jenis": "Monitor",
+      "rating": 4.7,
+      "url": "https://example.com/asus-rog-swift-pg279q",
+      "lokasi": "Medan",
+      "harga": 8000000
+    },
+    {
+      "nama": "Printer Epson EcoTank ET-4760",
+      "jenis": "Printer",
+      "rating": 4.5,
+      "url": "https://example.com/epson-ecotank-et-4760",
+      "lokasi": "Makassar",
+      "harga": 4500000
+    },
+    {
+      "nama": "Router TP-Link Archer C4000",
+      "jenis": "Router",
+      "rating": 4.4,
+      "url": "https://example.com/tp-link-archer-c4000",
+      "lokasi": "Palembang",
+      "harga": 3000000
+    },
+    {
+      "nama": "Mouse Logitech MX Master 3",
+      "jenis": "Mouse",
+      "rating": 4.8,
+      "url": "https://example.com/logitech-mx-master-3",
+      "lokasi": "Balikpapan",
+      "harga": 1200000
+    },
+    {
+      "nama": "External SSD Samsung T7",
+      "jenis": "External SSD",
+      "rating": 4.6,
+      "url": "https://example.com/samsung-t7",
+      "lokasi": "Bali",
+      "harga": 900000
+    },
+    {
+      "nama": "Smartwatch Apple Watch Series 6",
+      "jenis": "Smartwatch",
+      "rating": 4.9,
+      "url": "https://example.com/apple-watch-series-6",
+      "lokasi": "Solo",
+      "harga": 6000000
+    },
+    {
+      "nama": "Keyboard Corsair K95 RGB Platinum XT",
+      "jenis": "Keyboard",
+      "rating": 4.7,
+      "url": "https://example.com/corsair-k95-rgb-platinum-xt",
+      "lokasi": "Manado",
+      "harga": 2500000
+    },
+    {
+      "nama": "Tablet Samsung Galaxy Tab S7+",
+      "jenis": "Tablet",
+      "rating": 4.8,
+      "url": "https://example.com/samsung-galaxy-tab-s7-plus",
+      "lokasi": "Denpasar",
+      "harga": 10000000
+    },
+    {
+      "nama": "UPS APC Back-UPS Pro 1500",
+      "jenis": "UPS",
+      "rating": 4.5,
+      "url": "https://example.com/apc-back-ups-pro-1500",
+      "lokasi": "Pontianak",
+      "harga": 2000000
+    },
+    {
+      "nama": "Scanner Epson Perfection V600",
+      "jenis": "Scanner",
+      "rating": 4.6,
+      "url": "https://example.com/epson-perfection-v600",
+      "lokasi": "Padang",
+      "harga": 3500000
+    },
+    {
+      "nama": "Smartphone Samsung Galaxy Note 20",
+      "jenis": "Smartphone",
+      "rating": 4.7,
+      "url": "https://example.com/samsung-galaxy-note-20",
+      "lokasi": "Malang",
+      "harga": 15000000
+    },
+    {
+      "nama": "Laptop ASUS ROG Zephyrus G14",
+      "jenis": "Laptop",
+      "rating": 4.9,
+      "url": "https://example.com/asus-rog-zephyrus-g14",
+      "lokasi": "Bekasi",
+      "harga": 16000000
+    },
+    {
+      "nama": "Smart TV Sony Bravia A8H",
+      "jenis": "Smart TV",
+      "rating": 4.8,
+      "url": "https://example.com/sony-bravia-a8h",
+      "lokasi": "Cirebon",
+      "harga": 25000000
+    }
+  ]
+}
